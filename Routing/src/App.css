@@ -40,12 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+/*Min egen CSS*/
 
-
-
-/*Min egen CSS  */
-
-.main-nav {
+.main-nav{
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
